@@ -1,1 +1,1 @@
-# Olympic-Data-Analysis
+# Olympic-EDA
